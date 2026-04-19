@@ -16,11 +16,6 @@ hash = "f0aa35028d210e4c3b87e3029520dea9ead7db9d639e97faad2db374f6a9b2c1"
 metafile = true
 
 [[files]]
-file = "mods/carry-on.pw.toml"
-hash = "11fa4cee80d5456e1681f8229c756d8c4aaa3ce6fcd8ab0bef62f408c95441e6"
-metafile = true
-
-[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "beae80095904e22e3500279a09bbc00aae12b6d3a6f0c86f263157ca817bd49b"
 metafile = true
@@ -200,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "f1cec80f06a6bb696ff7250c273e328519944adb6b677dcd2476b428ede02e4e"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "7078b008050dc86f217e6de52ae66a937d8e9a1cd0483000a5ca9e35e540c60f"
 metafile = true
 
 [[files]]
