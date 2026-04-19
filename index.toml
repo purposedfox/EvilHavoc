@@ -41,6 +41,10 @@ hash = "e5370f88c2665cfb51afdb838b7d1c26cec0446c5a5879dd8cbd4dd255a4c578"
 metafile = true
 
 [[files]]
+file = "mods/cobblegengalore-1.21.1-0.2.8.jar"
+hash = "3f1ecc4a10f5ca398de2a254a491ae14638818650c40d3211a3eeb2caea095b6"
+
+[[files]]
 file = "mods/configurable.pw.toml"
 hash = "dc6adf5804d410e8941312e75b8dce731d66aa00255f5b4ed48113da03c97730"
 metafile = true
@@ -195,11 +199,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
-metafile = true
-
-[[files]]
-file = "mods/figura.pw.toml"
-hash = "ec63273a54b1b51100b53bfd27c7cd9fe68486527112c1a0ccb9e8ae6a2f9d46"
 metafile = true
 
 [[files]]
