@@ -149,6 +149,10 @@ file = "mods/createbigcannons-5.11.3-dev-mc.1.21.1-build.274.jar"
 hash = "9afe8ad7086d0d8bd134a84af98c2d0ab3179cbe843a9b0ad79760bffbd7b274"
 
 [[files]]
+file = "mods/dcintegration-neoforge-3.0.7-1.21.jar"
+hash = "6029c0bda627b50a520b3ca91ae3378e49e5ede612d38c86e1322d3ccba09ccb"
+
+[[files]]
 file = "mods/dynamic-crosshair.pw.toml"
 hash = "efbd8456dd8dc48e13b73a289f2db803664d32c48619deadf9bf51a81930e533"
 metafile = true
