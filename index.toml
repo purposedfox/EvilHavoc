@@ -177,6 +177,10 @@ hash = "efbd8456dd8dc48e13b73a289f2db803664d32c48619deadf9bf51a81930e533"
 metafile = true
 
 [[files]]
+file = "mods/elytracancel-1.0.0.jar"
+hash = "5ab8fc65ae78f46a261d3b78a40ae4a025e669b165d1e653a9c58167185a15fd"
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
 metafile = true
