@@ -6,6 +6,11 @@ hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
 
 [[files]]
+file = "mods/aileron.pw.toml"
+hash = "a86b49f3eebe85445b5e7c8f9a7ef1e8cb84fa84939fe1f2b933dfb5feb92926"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
 metafile = true
@@ -146,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -268,10 +273,6 @@ metafile = true
 file = "mods/no-chat-restrictions.pw.toml"
 hash = "bbaa5acb4a63efb00b03a674e3c4490a67da1c24ca9b8d6c43f74a1dee905049"
 metafile = true
-
-[[files]]
-file = "mods/no-elytras-1.0.0-1.21.x.jar"
-hash = "fac87a5ccede116a9f4da66c9db36947c3022c8f945880c79fe7598936bae715"
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
