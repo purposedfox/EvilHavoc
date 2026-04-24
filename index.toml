@@ -384,10 +384,6 @@ hash = "3153a281cdd98f77971cdabd36c8e2330c2ee99d1226955ecc792b1f6062443d"
 metafile = true
 
 [[files]]
-file = "mods/towed-1.0.0.jar"
-hash = "72df1589b04b288bd7e630553d7f427a855ddabae7fa369dd46bb394806fe878"
-
-[[files]]
 file = "mods/tracks-neoforge-1.21.1-1.0.0.jar"
 hash = "e61d1a3b99ec500f4687a633eaa6902943e0d3ec49804bdd72fd26a491e3c37c"
 
